@@ -1,0 +1,3 @@
+short cut key
+reference : https://tecurio.com/vscode_howto_interrupt_terminal/
+shift + ctrl + q -> 強制終了

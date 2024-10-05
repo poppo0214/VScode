@@ -1,0 +1,12 @@
+polydata: 三角形からなる表面データ。三角形の座標を指定する。
+
+ImageData (.vti) — Serial vtkImageData (structured).
+PolyData (.vtp) — Serial vtkPolyData (unstructured).
+RectilinearGrid (.vtr) — Serial vtkRectilinearGrid (structured).
+StructuredGrid (.vts) — Serial vtkStructuredGrid (structured).
+UnstructuredGrid (.vtu) — Serial vtkUnstructuredGrid (unstructured).
+PImageData (.pvti) — Parallel vtkImageData (structured).
+PPolyData (.pvtp) — Parallel vtkPolyData (unstructured).
+PRectilinearGrid (.pvtr) — Parallel vtkRectilinearGrid (structured).
+PStructuredGrid (.pvts) — Parallel vtkStructuredGrid (structured).
+PUnstructuredGrid (.pvtu) — Parallel vtkUnstructuredGrid (unstructured)
